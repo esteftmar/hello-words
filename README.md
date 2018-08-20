@@ -1,2 +1,2 @@
-# hello-words
+# hello-wold
 Just another repository
