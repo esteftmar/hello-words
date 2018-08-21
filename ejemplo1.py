@@ -4,9 +4,9 @@ def max (n1, n2):
     elif n2 < n1:
         print (n1)
     else:
-        print ("Son demasiado iguales")
+        print ("no son  iguales")
 
-max(5, 5)
+max(3, 5)
 
 
 
